@@ -1,2 +1,2 @@
-# react-study8
+# react-study6
 Created with CodeSandbox
